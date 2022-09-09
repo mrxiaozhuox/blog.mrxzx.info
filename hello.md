@@ -1,6 +1,6 @@
 ---
 title: hello world
-tags: [test]
+tags: []
 date: 2022-09-09
 released: true
 ---
