@@ -1,8 +1,8 @@
 ---
-title: hello world
+title: Hello World
 tags: []
 date: 2022-09-09
 released: true
 ---
 
-# Hello world
+this is my first blog (for mrxzx.info website)
