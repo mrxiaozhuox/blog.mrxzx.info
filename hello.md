@@ -1,8 +1,10 @@
 ---
 title: Hello World
-tags: []
+tags: [note]
 date: 2022-09-09
 released: true
 ---
 
-this is my first blog (for mrxzx.info website)
+> this is my first blog (for mrxzx.info website)
+
+this website is made by Dioxus, and I use Github repoistory to save my post content.
