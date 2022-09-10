@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: About my blog system
 tags: [note]
 date: 2022-09-09
 released: true
