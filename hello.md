@@ -5,6 +5,4 @@ date: 2022-09-09
 released: true
 ---
 
-> this is my first blog (for mrxzx.info website)
-
-this website is made by Dioxus, and I use Github repoistory to save my post content.
+I’m the past month, I use dioxins re-build my personal website, but I think I need a add a blog page for my website, so I try to find some solution to make this page, I don’t want use any paid server, so I just try to use GitHub repository and GitHub’s api to display my blog, I use api to get file list in the repository, and parse metadata for each file, get some basic info.
