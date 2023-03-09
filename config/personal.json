@@ -1,10 +1,11 @@
 {
     "username": "Karaty",
+    "avatar": "https://avatars.githubusercontent.com/u/102401923?s=200&v=4",
     "bio": "A static personal profile & blog generator",
     "introducation": [
-        { "type": "text", "content": "offical website: " },
-        { "type": "link", "url": "https://github.comm/mrxiaozhuox/karaty", "content": "karaty repo" },
+        { "type": "text", "text": "offical website: " },
+        { "type": "link", "url": "https://github.comm/mrxiaozhuox/karaty", "text": "karaty repo" },
         { "type": "newline" },
-        { "type": "Hello World" }
+        { "type": "text", "text": "Hello World" }
     ]
 }
