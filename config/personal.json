@@ -1,0 +1,10 @@
+{
+    "username": "Karaty",
+    "bio": "A static personal profile & blog generator",
+    "introducation": [
+        { "type": "text", "content": "offical website: " },
+        { "type": "link", "url": "https://github.comm/mrxiaozhuox/karaty", "content": "karaty repo" },
+        { "type": "newline" },
+        { "type": "Hello World" }
+    ]
+}
