@@ -1,3 +1,11 @@
+---
+title: author
+mdate: 2025-02-13 18:17:30
+mdevice: iPad
+doc_id: 0e2207c04a854ee9b47d5c9b0cc5f1d1
+date: 2025-02-13 17:55:34
+---
+
 <div class="m-2" align="center"><img class="rounded-lg" src="/assets/images/avatar.jpeg" /></div>
 
 # YuKun Liu
@@ -5,7 +13,6 @@
 Hello, I'm a full-stack developer, my favorite programming language is **Rust**.
 
 I'm living *Irvine, CA*
-
 
 
 ### Tech Stack
